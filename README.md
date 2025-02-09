@@ -1,2 +1,0 @@
-# DilaaMD
-Bot MD Telegram
